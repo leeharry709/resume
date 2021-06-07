@@ -4,6 +4,13 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
+![](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume.jpg)
+
 <p>
-  <img src="https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume.jpg">
+  <a href = "https://www.linkedin.com/in/leeharry709/">
+    <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/linkedin.png">
+  </a>
+  <a href = "https://github.com/leeharry709">
+    <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/github.png">
+  </a>
 </p>
