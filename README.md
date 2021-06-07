@@ -4,4 +4,6 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-![](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume.jpg)
+<p>
+  <img src="https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume.jpg">
+</p>
