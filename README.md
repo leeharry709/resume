@@ -4,7 +4,7 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-[![](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume%20image.jpg)](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume%20image.jpg)
+[![](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume-page-001.jpg)](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume-page-001.jpg)
 
 <p>
   <a href = "https://www.linkedin.com/in/leeharry709/">
