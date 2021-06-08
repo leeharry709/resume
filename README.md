@@ -16,4 +16,3 @@
   <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/email.png">
   leeharry709@outlook.com
 </p>
-
