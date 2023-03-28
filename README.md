@@ -4,7 +4,7 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.pdf&embedded=true" style="width:100%; height:1000px;" frameborder="0"></iframe>
+<img src="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.jpg">
 
 <p>
   <a href = "https://www.linkedin.com/in/leeharry709/">
