@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.pdf"> Click here to download a PDF version! </a>
   <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf" Click here to view/print a PDF version! <\a>
+  <img src="https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.jpg">
 </p>
 
 
