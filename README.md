@@ -4,7 +4,7 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-<a href="https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf">Click here to view/print a PDF version!</a>
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf">Click here to view/print a PDF version!</a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.jpg">
 </p>
