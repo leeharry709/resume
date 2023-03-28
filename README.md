@@ -4,7 +4,7 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-[![](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume-page-001.jpg)](https://raw.githubusercontent.com/leeharry709/resume/main/2021%20Resume-page-001.jpg)
+<iframe src="https://docs.google.com/gview?url=https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.pdfstyle="width:100%; height:1000px;" frameborder="0"></iframe>
 
 <p>
   <a href = "https://www.linkedin.com/in/leeharry709/">
