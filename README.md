@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.jpg">
-  PDF Version of Resume on Github Page!
+  <img src="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.jpg" alt="PDF Version of Resume on Github Page!">
 </p>
 
 <p>
