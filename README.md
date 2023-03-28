@@ -4,7 +4,9 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-<img src="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.jpg">
+<p align="center">
+  <img src="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.jpg">
+</p>
 
 <p>
   <a href = "https://www.linkedin.com/in/leeharry709/">
