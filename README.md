@@ -4,11 +4,12 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
+<a href="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.pdf"> Click here to download a PDF version! </a>
+
 <p align="center">
   <img src="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.jpg">
 </p>
 
-<a href="https://github.com/leeharry709/resume/blob/main/Harold_Lee_Resume_2023.pdf"> Click here to download a PDF version! </a>
 
 <p>
   <a href = "https://www.linkedin.com/in/leeharry709/">
