@@ -6,7 +6,7 @@
 
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf">Click here to view/print a PDF version!</a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.jpg">
+  <img src="https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023_img.jpg">
 </p>
 
 
